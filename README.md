@@ -2,6 +2,10 @@ Evepraisal
 ==========
 This is a tool for Eve Online aimed at being able to quickly price check items. [Shown here](http://evepraisal.com).
 
+Fork for EVE Best
+=================
+This tool has been forked to be used for a corporate buyback program. It will simply show the buy prices at Jita - 10%.
+
 Requirements
 ============
 * Python > 2.7
